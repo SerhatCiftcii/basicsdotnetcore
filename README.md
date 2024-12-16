@@ -14,9 +14,9 @@ Bu proje, **Entity Framework**'ü kullanarak verilerin depolanması ve alınmas�
 - **Framework**: ASP.NET Core
 - **ORM**: Entity Framework Core
 - **Veritabanı**: Hafıza içi veritabanı (Veriler sayfa yenilendiğinde kaybolur)
-- **IDE**: Visual Studio
+- **IDE**: Visual Studio code
 
 ## Kurulum
 1. Reposunu klonla.
-2. Visual Studio'da projeyi çalıştır.
+2. Visual Studio'da codda  projeyi çalıştır.
 3. Proje, hafıza içi bir veritabanı kullanır (veriler sayfa yenilendiğinde kaybolur).
